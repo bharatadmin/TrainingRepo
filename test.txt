@@ -5,3 +5,5 @@ Hello All
 Good morning all
 
 My First CI sample job
+
+jenkins is using for CI process
